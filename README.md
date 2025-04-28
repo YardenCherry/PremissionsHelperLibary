@@ -21,8 +21,8 @@ A simple and customizable Android library for handling runtime permissions effic
 2. Add the library as a module to your Android project.
 3. Add dependency in your `app/build.gradle`:
 
-```gradle
 implementation project(":permissionslib")
+
 
 ## Video
 
